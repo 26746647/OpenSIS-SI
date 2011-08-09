@@ -1,0 +1,1 @@
+<?php $langpref = "es.php"; ?>
