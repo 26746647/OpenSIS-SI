@@ -11,7 +11,7 @@ $associateParentStudent = "Asociar padres con Alumnos";
 
 $reports ="Reportes";    
 $advanceReport = "Reporte avanzado";
-$addDropReport ="agregar / Eliminar Reporte";
+$addDropReport ="Agregar / Eliminar Reporte";
 $printLetters ="Imprimir Cartas";
 $printMailingLabels = "Imprimir Etiquetas para Sobres";
 $printStudentLabels = "Imprimir etiquetas de Alumnos";
@@ -26,20 +26,20 @@ $addressFields = "Campos de Dirección";
 $contactFields = "Campo de Contacto";
 $enrollmentCodes = "Códifos de Inscripción";
 $uploadStudentPhoto = "Subir Foto de Alumno";
-$updateStudentPhoto = "actualizar Foto de Alumno";
+$updateStudentPhoto = "Actualizar Foto de Alumno";
 
 // END Student Menu 
 
 // Student/Teacher Menu
 
-$studentInfo = "Student Info";
-$associatedParents = "Associated Parents";
+$studentInfo = "Información de Alumno";
+$associatedParents = "Padres Asociados";
 
 // END Student/Teacher Menu
 
 // Student/Parent Menu
 
-$changePassword = "Change Password";
+$changePassword = "Cambian Contraseña";
 
 //End Student / Parent Menu
 
@@ -47,36 +47,36 @@ $changePassword = "Change Password";
 
 // AddDrop.php 
 
-$students = "Students > ";
-$studentLabel = "Student";
-$studentID = "Student ID";
-$school = "School";
-$enrolled = "Enrolled";
-$dropped = "Dropped";
-$enrollmentRecord = "Enrollment Record";
-$enrollmentRecords = "Enrollment Records";
+$students = "Alumnos > ";
+$studentLabel = "Alumno";
+$studentID = "Ientificación de Alumno";
+$school = "Colegio";
+$enrolled = "Inscripto";
+$dropped = "Abandonado";
+$enrollmentRecord = "Registro de Inscripción";
+$enrollmentRecords = "Registros de Inscripción";
 
 // END AddDrop.php 
 
 // AddressFields.php
-$confirmDeleteAdressFieldCategory = "address field category and all fields in the category";
-$newAddressField = "New Address Field";
-$newAddressFieldCategory = "New Address Field Category";
+$confirmDeleteAdressFieldCategory = "categoría campo de dirección y todos los campos de la categoría";
+$newAddressField = "Nuevo campo de dirección";
+$newAddressFieldCategory = "Nueva categoria de campo de Dirección";
 
-$save = "Save";
-$fieldName = "Field Name";
-$pullDown = "Pull-Down";
-$autoPullDown = "Auto Pull-Down";
-$editPullDown = "Edit Pull-Down";
-$text = "Text";
-$checkbox = "Checkbox";
-$codedPullDown = "Coded Pull-Down";
-$number = "Number";
-$selectMultipleOptions = "Select Multiple from Options";
-$date = "Date";
-$longText = "Long Text";
-$dataType = "Data Type";
-$selectMultiple = "Select Multiple";
+$save = "Guardar";
+$fieldName = "Nombre de Campo";
+$pullDown = "Bajar";
+$autoPullDown = "Auto Bajar";
+$editPullDown = "Editar Bajar";
+$text = "Texto";
+$checkbox = "Verificación";
+$codedPullDown = "Bajar Codificado";
+$number = "Número";
+$selectMultipleOptions = "Seleccionar múltiples opciones";
+$date = "Fecha";
+$longText = "Texto amplio";
+$dataType = "Tipo de Fecha";
+$selectMultiple = "Selección Múltiple";
 
 $addressFieldCategory = "Address Field Category";
 $addressFieldCategories = "Address Field Categories";
