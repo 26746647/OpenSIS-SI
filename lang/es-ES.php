@@ -158,7 +158,7 @@ $grandfatherMsg = "Abuelo";
 $legalGuardianMsg = "Tuto";
 $otherFamilyMemberMsg = "otro miembro de la Família";
 $phoneMsg = "Teléfono Fijo";
-$cellPhoneMsg = "Teléfono Móbil";
+$cellPhoneMsg = "Teléfono Móvil";
 $workPhoneMsg = "Teléfono Trabajo";
 $employerMsg = "Empleador";
 
