@@ -78,52 +78,52 @@ $longText = "Texto amplio";
 $dataType = "Tipo de Fecha";
 $selectMultiple = "Selección Múltiple";
 
-$addressFieldCategory = "Address Field Category";
-$addressFieldCategories = "Address Field Categories";
-$sortOrder = "Sort Order";
-$selectExplaination = "Pull-Down/Auto Pull-Down/Coded Pull-Down/Select Multiple Choices<BR>* one per line";
-$default = "Default";
-$forDateCheckbox = "for dates: YYYY-MM-DD,<BR> for checkboxes: Y";
-$required = "Required";
-$residence = "Residence";
+$addressFieldCategory = "Categoría de Campo de Dirección";
+$addressFieldCategories = "Categorías de Campos de Direcciónes";
+$sortOrder = "Orden";
+$selectExplaination = "Bajar/Auto Bajar/Bajar Codificado/Selección Múltiple<BR>* uno por línea";
+$default = "Predeterminado";
+$forDateCheckbox = "para fechas: YYYY-MM-DD,<BR> por Verificación: S";
+$required = "Requerido";
+$residence = "Residencia";
 $mailing = "Mailing";
-$bus = "Bus";
-$noteAllUncheckAppliesToAll = "Note: All unchecked means applies to all addresses";
-$category = "Category";
-$order = "Order";
-$addressField = "Address Field";
+$bus = "autobus";
+$noteAllUncheckAppliesToAll = "Nota: Todos los camplos marcados se aplcian a todas las direcciones";
+$category = "Categoría";
+$order = "Orden";
+$addressField = "Campo de Dirección";
 
 // END AddressField.php
 
 // AddUsers.php
 
-$noteUserProfileAccessSelectedStudent = "The selected user's profile now includes access to the selected students.";
-$studentFromThatUser = "student from that user";
-$removeAccessTo = "remove access to";
-$associated = "# Associated";
-$parents = "Parents";
-$lastLogin = "Last Login";
-$addSelectedParents = "Add Selected Parents";
+$noteUserProfileAccessSelectedStudent = "El perfil de usuario seleccionado ahora incluye el acceso a los estudiantes seleccionados.";
+$studentFromThatUser = "estudiante de ese usuario";
+$removeAccessTo = "quitar el acceso a";
+$associated = "# Asociado";
+$parents = "Padres";
+$lastLogin = "Último accso";
+$addSelectedParents = "Agregar padres seleccionados";
 
 // END AddUsers.php
 
 // AdvancedReport.php
 
-$family = "Family";
-$families = "Families";
-$studentAdvancedReport = "Student Advanced Report";
+$family = "Familia";
+$families = "Familias";
+$studentAdvancedReport = "Informe Estudiante Avanzado";
 $poweredbyopenSIS = "Powered by openSIS";
-$includeCoursesActiveAsOf = "Include courses active as of";
-$createReportForSelectedStudents = "Create Report for Selected Students";
+$includeCoursesActiveAsOf = "Incluyen cursos de activo como de";
+$createReportForSelectedStudents = "Crear un informe para los estudiantes seleccionados";
 
 // END AvancedReport.php
 
 // AssignOtherInfo.php 
 
-$dateNotValidNotUseOtherDataSave = "The date you specified is not valid, so was not used. The other data was saved.";
-$noDataWasEntered = "No data was entered";
-$specifiedInformationAppliedSelectStudents = "The specified information was applied to the selected students.";
-$mustSelectOneStudent = "You must choose at least one field and one student";
+$dateNotValidNotUseOtherDataSave = "La fecha que ha especificado no es válida, por lo que no fue utilizada. Los demás datos se guardan.";
+$noDataWasEntered = "No se han introducido datos";
+$specifiedInformationAppliedSelectStudents = "La información especificada se aplica a los estudiantes seleccionados.";
+$mustSelectOneStudent = "Debe elegir al menos un campo y un estudiante";
 
 // As Here I specified each variable name with the Postfix "Msg" I will correct the previous later
 
