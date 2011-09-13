@@ -97,8 +97,8 @@ $addressField = "Campo de Dirección";
 
 // AddUsers.php
 
-$noteUserProfileAccessSelectedStudent = "El perfil de usuario seleccionado ahora incluye el acceso a los estudiantes seleccionados.";
-$studentFromThatUser = "estudiante de ese usuario";
+$noteUserProfileAccessSelectedStudent = "El perfil de usuario seleccionado ahora incluye el acceso a los alumnos seleccionados.";
+$studentFromThatUser = "alumno de ese usuario";
 $removeAccessTo = "quitar el acceso a";
 $associated = "# Asociado";
 $parents = "Padres";
@@ -111,10 +111,10 @@ $addSelectedParents = "Agregar padres seleccionados";
 
 $family = "Familia";
 $families = "Familias";
-$studentAdvancedReport = "Informe Estudiante Avanzado";
+$studentAdvancedReport = "Informe alumno Avanzado";
 $poweredbyopenSIS = "Powered by openSIS";
 $includeCoursesActiveAsOf = "Incluyen cursos de activo como de";
-$createReportForSelectedStudents = "Crear un informe para los estudiantes seleccionados";
+$createReportForSelectedStudents = "Crear un informe para los alumnos seleccionados";
 
 // END AvancedReport.php
 
@@ -122,111 +122,111 @@ $createReportForSelectedStudents = "Crear un informe para los estudiantes selecc
 
 $dateNotValidNotUseOtherDataSave = "La fecha que ha especificado no es válida, por lo que no fue utilizada. Los demás datos se guardan.";
 $noDataWasEntered = "No se han introducido datos";
-$specifiedInformationAppliedSelectStudents = "La información especificada se aplica a los estudiantes seleccionados.";
-$mustSelectOneStudent = "Debe elegir al menos un campo y un estudiante";
+$specifiedInformationAppliedSelectStudents = "La información especificada se aplica a los alumnos seleccionados.";
+$mustSelectOneStudent = "Debe elegir al menos un campo y un alumno";
 
 // As Here I specified each variable name with the Postfix "Msg" I will correct the previous later
 
 $rollingRetentionOptionsMsg = "Rolling Retention / Options";
-$nextGradeAtCurrentSchoolMsg = "Next grade at current school";
-$retainMsg = "Retain";
-$doNotEnrollAfterSchoolYearMsg = "Do not enroll after this school year";
-$calendarMsg = "Calendar";
-$saveMsg = "Save";
+$nextGradeAtCurrentSchoolMsg = "Siguiente grado en el Colegio actual";
+$retainMsg = "conservar";
+$doNotEnrollAfterSchoolYearMsg = "No inscribirse después de este año escolar";
+$calendarMsg = "Calendario";
+$saveMsg = "Guardar";
 
 // END AssignOtherInfo.php
 
 // ChangePassword.php
 
-$schoolSetupMsg = "School Setup >> ";
-$pleaseTypeThePasswordMsg = "Please Type The Password";
-$passwordSucessfullyChangedMsg = "Password Sucessfully Changed";
-$pleaseRetypePasswordMsg = "Please Retype Password";
-$passwordDoesntExistMsg = "Password Does'nt Exist";
-$changePasswordMsg = "Change Password";
+$schoolSetupMsg = "Configuración Colegio >> ";
+$pleaseTypeThePasswordMsg = "Por favor escriba una Contraseña";
+$passwordSucessfullyChangedMsg = "Contraseña cambiado con éxito";
+$pleaseRetypePasswordMsg = "Por favor, Confirmar Contraseña";
+$passwordDoesntExistMsg = "Contraseña no existe";
+$changePasswordMsg = "Cambie la Contarseña";
 
 // END ChangePassword.php
 
 // config.inc.php
 
-$fatherMsg = "Father";
-$motherMsg = "Mother";
+$fatherMsg = "Padre";
+$motherMsg = "Madre";
 $stepMotherMsg = "Step Mother";
 $stepFatherMsg = "Step Father";
-$grandmotherMsg = "Grandmother";
-$grandfatherMsg = "Grandfather";
-$legalGuardianMsg = "Legal Guardian";
-$otherFamilyMemberMsg = "Other Family Member";
-$phoneMsg = "Phone";
-$cellPhoneMsg = "Cell Phone";
-$workPhoneMsg = "Work Phone";
-$employerMsg = "Employer";
+$grandmotherMsg = "Abuela";
+$grandfatherMsg = "Abuelo";
+$legalGuardianMsg = "Tuto";
+$otherFamilyMemberMsg = "otro miembro de la Família";
+$phoneMsg = "Teléfono Fijo";
+$cellPhoneMsg = "Teléfono Móbil";
+$workPhoneMsg = "Teléfono Trabajo";
+$employerMsg = "Empleador";
 
 // END config.inc.php
 
 // EnrollmentCodes.php 
 
-$studentsMsg = "Students > ";
-$cannotDeleteEnrollmentCodeMsg = "Cannot delete because enrollment codes are associated.";
-$enrollmentCodeMsg = "enrollment code";
+$studentsMsg = "Alumnos > ";
+$cannotDeleteEnrollmentCodeMsg = "No se puede eliminar porque los códigos de inscripción se asocian.";
+$enrollmentCodeMsg = "código de inscripción ";
 
-$titleMsg = "Title";
-$shortNameMsg = "Short Name";
-$typeMsg = "Type";
-$enrollmentCodesMsg = "Enrollment Codes";
-$enrollmentCodeCapMsg = "Enrollment Code";
-$addMsg = "Add";
-$dropMsg = "Drop";
+$titleMsg = "Título";
+$shortNameMsg = "Nombre Corto";
+$typeMsg = "Tipo";
+$enrollmentCodesMsg = "Códigos de inscripción";
+$enrollmentCodeCapMsg = "Código de inscripción";
+$addMsg = "Agregar";
+$dropMsg = "Eliminar";
 
 // END EnrollmentCodes.php
 
 // GoalReport.php 
 
-$goalTitleMsg = "Goal Title "; 
-$beginDateMsg = "Begin Date ";
-$endDateMsg = "End Date "; 
-$goalDescriptionMsg = "Goal Description ";
-$progressDetailsMsg = "Progress Details";
-$dateOfEntryMsg = "Date of Entry ";
-$coursePeriodMsg = "Course Period ";
-$progressPeriodNameMsg = "Progress Period Name ";
-$proficiencyMsg = "Proficiency ";
-$progressAssessmentMsg = "Progress Assessment "; 
-$noStudentsWereFoundMsg = "No Students were found.";
-$youMustChooseAtLeastOneStudentMsg = "You must choose at least one student.";
-$studentsDoubleCoteMsg = "Students >> "; 
-$pleaseSelectTheDateRangeMsg = "Please select the date range ";
-$fromMsg = "From  ";
-$toMsg = "To  "; 
-$withProgressMsg = " With Progress";
-$printInfoForSelectedStudentsMsg = "Print Info for Selected Students";
+$goalTitleMsg = "Título de Objetivo "; 
+$beginDateMsg = "Fech aInicial ";
+$endDateMsg = "Fecha Final "; 
+$goalDescriptionMsg = "Descripción de Objetivo ";
+$progressDetailsMsg = "Detalles de los avances";
+$dateOfEntryMsg = "Fecha de entrada ";
+$coursePeriodMsg = "Duración del curso ";
+$progressPeriodNameMsg = "Progreso Nombre del período ";
+$proficiencyMsg = "Competencia ";
+$progressAssessmentMsg = "Evaluación de los avances "; 
+$noStudentsWereFoundMsg = "No se han encontrado los alumnos.";
+$youMustChooseAtLeastOneStudentMsg = "Debe elegir al menos un alumno.";
+$studentsDoubleCoteMsg = "Alumnos >> "; 
+$pleaseSelectTheDateRangeMsg = "Por favor, seleccione el intervalo de fechas ";
+$fromMsg = "Desde  ";
+$toMsg = "hasta  "; 
+$withProgressMsg = " con el progreso";
+$printInfoForSelectedStudentsMsg = "Imprimir Información para los alumnos seleccionados";
 
 /*
  * Localization of show_date fucntion postponed due to error generation
-$januaryMsg = "January";
-$februaryMsg = "February";
-$marchMsg = "March";
+$januaryMsg = "Enero";
+$februaryMsg = "Febrero";
+$marchMsg = "Marzo";
 $aprilMsg = "April";
-$mayMsg = "May";
-$juneMsg = "June";
-$julyMsg = "July";
-$augustMsg = "August";
-$septemberMsg = "September";
-$octoberMsg = "October";
-$novemberMsg = "November";
-$decemberMsg = "December";
+$mayMsg = "Mayo";
+$juneMsg = "Junio";
+$julyMsg = "Julio";
+$augustMsg = "Augosto";
+$septemberMsg = "Septiembre";
+$octoberMsg = "Octubre";
+$novemberMsg = "Noviembre";
+$decemberMsg = "Deciembre";
 */
 
 // END GoalReport.php
 
 // Letters.php
 
-$letterTextMsg = "Letter Text";
-$studentsImplicationMsg = "Students -> "; 
-$studentLetterMsg = "Student Letter";
+$letterTextMsg = "Carta de texto";
+$studentsImplicationMsg = "Alumnos -> "; 
+$studentLetterMsg = "Carta de Alumnos";
 $poweredByOpenSISMsg = "Powered by openSIS";
-$gradeMsg = " Grade";
-$courseMsg = "Course ";
+$gradeMsg = " Grado";
+$courseMsg = "Curso ";
 $QTRMsg = "QTR";
 
 // END Letters.php
