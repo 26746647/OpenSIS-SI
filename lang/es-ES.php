@@ -235,51 +235,51 @@ $QTRMsg = "QTR";
 
 $toTheParentsOfMsg="A los padres de ";
 $COMsg = "C/O &nbsp;";
-$averageLabelCompatibleMsg = "Avery Label 15660, 18660, 28660, 5630, 5660, 8660, 5620, 8620 compatible";
-$toStudentMsg = "To Student";
-$toPrimaryEmergencyContactMsg = "To Primary Emergency Contact";
-$toSecondaryEmergencyContactMsg = "To Secondary Emergency Contact";
-$toBothEmergencyContactsMsg = "To Both Emergency Contacts";
-$startingRowMsg = "Starting row";
-$startingColumnMsg = "Starting column";
-$createLabelsForSelectedStudentsMsg = "Create Labels for Selected Students";
+$averageLabelCompatibleMsg = "Compatible con etiquetas Avery 15660, 18660, 28660, 5630, 5660, 8660, 5620, 8620 compatible";
+$toStudentMsgPara=" Alumno";
+$toPrimaryEmergencyContactMsg = "para el contacto de emergencia principal";
+$toSecondaryEmergencyContactMsg = "para el contacto de emergencia secundario";
+$toBothEmergencyContactsMsg = "para ambos contactos de emergencia";
+$startingRowMsg = "Fila de inicio";
+$startingColumnMsg = "Columna de inicio";
+$createLabelsForSelectedStudentsMsg = "Crear etiquetas para los Alumnos seleccionados";
 
 //END LailingLabels.php
 
 // PeopleFields.php
  
-$contactFieldMsg = "contact field";
-$fieldCategoryAndAllFieldCategoryMsg = "contact field category and all fields in the category";
-$newContactFieldMsg = "New Contact Field";
-$newContactFieldCategoryMsg = "New Contact Field Category";
-$fieldNameMsg = "Field Name";
+$contactFieldMsg = "campo de contacto";
+$fieldCategoryAndAllFieldCategoryMsg = "campo de categoría de contacto y todos los camops en la categoría";
+$newContactFieldMsg = "Nuevo campo de contacto";
+$newContactFieldCategoryMsg = "Nueva Categoría de campo de Contacto";
+$fieldNameMsg = "Nombre de Campo";
 
-$pullDownMsg = "Pull-Down";
-$autoPullDownMsg = "Auto Pull-Down";
-$editPullDownMsg = "Edit Pull-Down";
-$textMsg = "Text";
-$checkboxMsg = "Checkbox";
-$codedPullDownMsg = "Coded Pull-Down";
-$numberMsg = "Number";
-$selectMultipleOptionsMsg = "Select Multiple from Options";
-$dateMsg = "Date";
-$longTextMsg = "Long Text";
-$dataTypeMsg = "Data Type";
-$selectMultipleMsg = "Select Multiple";
-$sortOrderMsg = "Sort Order";
-$selectExplainationMsg = "Pull-Down/Auto Pull-Down/Coded Pull-Down/Select Multiple Choices<BR>* one per line";
-$defaultMsg = "Default";
-$forDateCheckboxMsg = "for dates: YYYY-MM-DD,<BR> for checkboxes: Y";
-$requiredMsg = "Required";
-$custodyMsg = "Custody";
-$emergencyMsg = "Emergency"; 
-$noteAllUncheckAppliesToAllContactMsg = "Note: All unchecked means applies to all contacts";
-$categoryMsg = "Category";
-$orderMsg = "Order";
-$contactFieldCategoryMsg = "Contact Field Category";
-$contactFieldCategoriesMsg = "Contact Field Categories";
-$contactFieldCapMsg = "Contact Field";
-$contactFieldsCapMsg = "Contact Fields";
+$pullDownMsg = "Bajar";
+$autoPullDownMsg = "Auto Bajar";
+$editPullDownMsg = "Editar Bajar";
+$textMsg = "Texto";
+$checkboxMsg = "Validación";
+$codedPullDownMsg = "Bajar Codificado";
+$numberMsg = "Número";
+$selectMultipleOptionsMsg = "Seleccionar múltiples opciones";
+$dateMsg = "Fecha";
+$longTextMsg = "Fecha Larga";
+$dataTypeMsg = "Tipo Fecha";
+$selectMultipleMsg = "Selección Múltiple";
+$sortOrderMsg = "Orden";
+$selectExplainationMsg = "Bajar/Auto Bajar/Bajar Codificado/Selección Múltiple<BR>* uno por línea";
+$defaultMsg = "Predeterminado";
+$forDateCheckboxMsg = "para fechas: YYYY-MM-DD,<BR> para validaciones: Y";
+$requiredMsg = "Requerido";
+$custodyMsg = "Custodia";
+$emergencyMsg = "Emergencia"; 
+$noteAllUncheckAppliesToAllContactMsg = "Nota: Todos campos sin marca se aplica a todos los contactos";
+$categoryMsg = "Categoría";
+$orderMsg = "Orden";
+$contactFieldCategoryMsg = "Categoría de campo de contacto";
+$contactFieldCategoriesMsg = "Categorías de campo de Contacto";
+$contactFieldCapMsg = "Campo de contacto";
+$contactFieldsCapMsg = "campos de contacto";
 
 // END PeopleFields.php 
 
