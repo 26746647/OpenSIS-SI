@@ -233,7 +233,7 @@ $QTRMsg = "QTR";
 
 // MailingLabels.php
 
-$toTheParentsOfMsg = "To the parents of ";
+$toTheParentsOfMsg="A los padres de ";
 $COMsg = "C/O &nbsp;";
 $averageLabelCompatibleMsg = "Avery Label 15660, 18660, 28660, 5630, 5660, 8660, 5620, 8620 compatible";
 $toStudentMsg = "To Student";
