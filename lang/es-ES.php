@@ -2230,7 +2230,7 @@ $SchRequestsMsg = "Peticiones";
 $SchUpdateMsg = "Update";
 $SchWithMsg = "Con";
 $SchWithoutMsg = "Sin";
-$SchOnMsg = "On";
+$SchOnMsg = "Acerda de";
 $SchNotOnMsg = "No es";
 
 //Schedduling/_Requests.php
@@ -2346,7 +2346,7 @@ $SchUnscheduledRequestMsg = "Solicitud no Programada";
 $SchUnscheduledRequestsMsg = "Solicitudes no Programadas";
 $SchWithMsg = "Con";
 $SchWithoutMsg = "Sin";
-$SchOnMsg = "On";
+$SchOnMsg = "Acerda de";
 $SchNotOnMsg = "No es";
 
 // END Scheduling
