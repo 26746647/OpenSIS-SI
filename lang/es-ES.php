@@ -86,7 +86,7 @@ $default = "Predeterminado";
 $forDateCheckbox = "para fechas: YYYY-MM-DD,<BR> por Verificación: S";
 $required = "Requerido";
 $residence = "Residencia";
-$mailing = "Mailing";
+$mailing = "Correo";
 $bus = "autobus";
 $noteAllUncheckAppliesToAll = "Nota: Todos los camplos marcados se aplcian a todas las direcciones";
 $category = "Categoría";
@@ -285,14 +285,14 @@ $contactFieldsCapMsg = "campos de contacto";
 
 // PrintStudentInfo.php 
 
-$studentInformationReportMsg = "Student Information Report";
-$personalInformationMsg = "Personal Information";
+$studentInformationReportMsg = "Reporte de Información de Alumno";
+$personalInformationMsg = "Información Personal";
 $studentNameMsg = "Nombre de Alumno";
 $altIDMsg = "Alt ID";
 $gradeMsg = "Grado";
-$genderMsg = "Gender";
-$ethnicityMsg = "Ethnicity";
-$commonNameMsg = "Common Name";
+$genderMsg = "Género";
+$ethnicityMsg = "Etnia";
+$commonNameMsg = "Nombre Común";
 $socialSecurityMsg = "Social Security";
 $birthDateMsg = "Birth Date";
 $languageSpokenMsg = "Language Spoken";
@@ -344,8 +344,8 @@ $findAStudentMsg = "Buscar Alumno";
 $advancedSearchMsg = "Advanced Search";
 $backToBasicSearchMsg = "Back to Basic Search";
 $birthdayMsg = "Birthday";
-$fromMsg = "From";
-$toMsg = "To";
+$fromMsg = "De";
+$toMsg = "Para";
 $goalAndProgressMsg = "Goal and Progress";
 $progressPeriodMsg = "Progress Period ";
 $progressAssessmentMsg = "Progress Assessment ";
@@ -367,7 +367,7 @@ $familiesMsg = "Familias";
 //Stu_ChangePass.php
 
 $oldPasswordMsg = "Old Password";
-$newPasswordMsg = "New Password";
+$newPasswordMsg = "Nueva Clave";
 $retypePasswordMsg = "Retype Password";
 
 //END Stu_ChangePass.php
@@ -413,7 +413,7 @@ $studentFieldCategoryMsg = "Student Field Category";
 $hideMsg = "Hide";
 $includeShouldBlankMostCategoriesMsg = "Incluir (debe dejarse en blanco para la mayoría de las categorías)";
 $studentFieldCategoriesMsg = "Student Field Categories";
-$studentFieldsMsg = "Student Fields";
+$studentFieldsMsg = "Campos de Alumno";
 
 //END StudentFields.php 
 
@@ -536,7 +536,7 @@ $VietnameseMsg = "Vietnamese";
 
 $demographicInformationMsg = "Demographic Information";
 $estimatedGradDateMsg = "Estimated Grad. Date ";
-$commonNameMsg = "Common Name";
+$commonNameMsg = "Nombre Común";
 $maleMsg = "Varón";
 $femaleMsg = "Mujer";
 $primaryLanguageMsg = "Primary Language";
@@ -544,8 +544,8 @@ $schoolInformationMsg = "School Information";
 $willAutomaticallyBeAssignedMsg = "Will automatically be assigned";
 $alternateIDMsg = "Alternate ID";
 $accessInformationMsg = "Access Information";
-$passwordMsg = "Password";
-$usernameMsg = "Username";
+$passwordMsg = "Clave";
+$usernameMsg = "Usuario";
 $lastLoginMsg = "Último ingreso";
 $disableStudentMsg = "Disable Student";
 $enrollmentInformationMsg = "Enrollment Information";
@@ -988,8 +988,8 @@ $AttNoStudentsFoundMsg = "No se han encontrado Alumnos";
 // Attendance/FixDailyAttendance.php
 $AttAttendanceMsg = "Attendance";
 $AttConfirmMsg = "Confirmar"; //ligne 33
-$AttFromMsg = "From";
-$AttToMsg = "to";
+$AttFromMsg = "De";
+$AttToMsg = "Para";
 $AttWhenWantToRecalculateDailyAttendanceMsg = "When do you want to recalculate the daily attendance?";
 $AttDailyAttendanceTimeframeHasBeenRecalculatedMsg = "The Daily Attendance for that timeframe has been recalculated.";
 
@@ -1436,8 +1436,8 @@ $TooLogDeletedSuccessfullyMsg = "Log deleted successfully";
 $TooYouHaveSelectAtLeastDateRangeMsg = "You have to select atleast one date from the date range";
 $TooDeleteLogMsg = "Delete Log";
 $TooPleaseSelectDateRangeMsg = "Please Select Date Range";
-$TooFromMsg = "From";
-$TooToMsg = "To";
+$TooFromMsg = "De";
+$TooToMsg = "Para";
 $TooDeleteMsg = "Eliminar";
 
 // END Tools/DeleteLog.php
@@ -1446,8 +1446,8 @@ $TooDeleteMsg = "Eliminar";
 
 $TooLoginTimeMsg = "Login Time";
 $TooUserNameMsg = "User Name";
-$TooFirstNameMsg = "First Name";
-$TooLastNameMsg = "Last Name";
+$TooFirstNameMsg = "Primer Nombre";
+$TooLastNameMsg = "Apellido";
 $TooFailureCountMsg = "Failure Count";
 $TooStatusMsg = "Status";
 $TooIPAddressMsg = "IP Address";
@@ -1495,8 +1495,8 @@ $TooPleaseLoginAgainMsg = "Please login again";
 
 //Reports/Students.php
 
-$RepFirstNameMsg = "First Name";
-$RepLastNameMsg = "Last Name";
+$RepFirstNameMsg = "Primer Nombre";
+$RepLastNameMsg = "Apellido";
 $RepMiddleNameMsg = "Middle Name";
 $RepCurrentSchoolMsg = "Current School";
 $RepPreviousSchoolMsg = "Previous School";
@@ -1541,8 +1541,8 @@ $MisGradeMsg = "Grado";
 $MisSchoolMsg = "School";
 $MisRollingRetentionOptionsMsg = "Rolling / Retention Options";
 $MisCalendarMsg = "Calendario";
-$MisUsernameMsg = "Username";
-$MisPasswordMsg = "Password";
+$MisUsernameMsg = "Usuario";
+$MisPasswordMsg = "Clave";
 $MisAlternateIDMsg = "Alternate ID";
 $MisDOBMsg = "DOB"; // Date Of Birth 
 $MisEmailIDMsg = "Email ID";
@@ -1644,8 +1644,8 @@ $EliStudentsMsg = "Alumnos";
 //Eligibility/EntryTimes.php
 
 $EliAllowEligibilityPostingMsg = "Allow Eligibility Posting";
-$EliFromMsg = "From";
-$EliToMsg = "To";
+$EliFromMsg = "De";
+$EliToMsg = "Para";
 
 //END Eligibility/EntryTimes.php
 
@@ -1702,7 +1702,7 @@ $RooAccountCreationNotificationMsg = "Your account has been created.  You will b
 $RooStudentInformationSystemMsg = "Student Information System";
 $RooOpenSISUndeMaintenanceMsg = "openSIS is under maintenance and login privileges have been turned off. Please log in when it is available again.";
 $RooUserNameMsg = "User Name";
-$RooPasswordMsg = "Password";
+$RooPasswordMsg = "Clave";
 $RooYouMustHaveJavascriptEnabledUseOpenSISMsg = "You must have javascript enabled to use openSIS.";
 $RooOpenSISCopyRightInfo = "Copyright &copy; 2011 Open Solutions for Education, Inc. (<a href='http://www.os4ed.com' target='_blank'>OS4Ed</a>).openSIS is licensed under the <a href='http://www.gnu.org/licenses/gpl.html' target='_blank'>GPL License</a>.";
                 
@@ -1756,11 +1756,11 @@ $UseLastMsg = "Last";
 $UseNameMsg = "Name";
 $UseStaffIDMsg = "Staff ID";
 $UseLastYearStaffIDMsg = "Last Year Staff ID";
-$UseUsernameMsg = "Username";
-$UsePasswordMsg = "Password";
+$UseUsernameMsg = "Usuario";
+$UsePasswordMsg = "Clave";
 $UseLastLoginMsg = "Último ingreso";
 $UseDisableUserMsg = "Disable User";
-$UsePermissionsMsg = "Permissions";
+$UsePermissionsMsg = "Permisos";
 $UseSchoolsMsg = "Schools";
 $UseEmailAddressMsg = "Email Address";
 $UsePhoneNumberMsg = "Phone Number";
@@ -1789,7 +1789,7 @@ $UseSelectProgramsUserCanUseSaveInfoMsg = "Select the programs with which this u
 $UseSaveMsg = "Guardar";
 $UseCanUseMsg = "Can Use";
 $UseCanEditMsg = "Can Edit";
-$UseAdministratorMsg = "Administrator";
+$UseAdministratorMsg = "Administrador";
 $UseTeacherMsg = "Profesor";
 $UseParentMsg = "Padre";
 $UseErrorMsg = "Error";
@@ -1804,25 +1804,25 @@ $UseProgramMsg = "program";
 $USeMaximumFailureAllowMsg = "Maximum Failure Allow";
 
 //Users/Menu.php
-$UseUserInfoMsg = "User Info";
-$UseAddAUserMsg = "Add a User";
+$UseUserInfoMsg = "Info de Usuario";
+$UseAddAUserMsg = "Agregar Usuario";
 $UseAssociateStudentsWithParentsMsg = "Associate Students with Parents";
-$UsePreferencesMsg = "Preferences";
+$UsePreferencesMsg = "Preferencias";
 $UseSetupMsg = "Configurar";
 $UseUserPermissionsMsg = "User Permissions";
-$UseUserFieldsMsg = "User Fields";
+$UseUserFieldsMsg = "Campos de Usuario";
 $UseTeacherProgramsMsg = "Programas de Profesor";
 
 //Users/Preferences.php
-$UseNewPasswordsNotMatchMsg = "Your new passwords did not match";
-$UseCurrentPasswordIncorrectMsg = "Your current password was incorrect";
-$UseNewPasswordSavedMsg = "Your new password was saved";
+$UseNewPasswordsNotMatchMsg = "Nuevas claves no coinciden";
+$UseCurrentPasswordIncorrectMsg = "Clave actual incorrecta";
+$UseNewPasswordSavedMsg = "Nueva clave almacenada";
 $UseDisplayOptionsMsg = "Display Options";
-$USePasswordMsg = "Password";
-$UseStudentListingMsg = "Student Listing";
-$UseStudentFieldsMsg  = "Student Fields";
+$USePasswordMsg = "Clave";
+$UseStudentListingMsg = "Listado de Alumnos";
+$UseStudentFieldsMsg  = "Campos de Alumno";
 $UseStudentNameMsg = "Nombre de Alumno";
-$UseCommonNameMsg = "Common Name";
+$UseCommonNameMsg = "Nombre Común";
 $UseGivenNameMsg = "Given Name";
 $UseStudentSortingMsg = "Student Sorting";
 $UseGradeNameMsg = "Grade, Name";
@@ -1836,74 +1836,74 @@ $UseCurrencyMsg = "Currency";
 $UseDateFormatMsg = "Date Format";
 $UseDisableLoginAlertsMsg = "Disable login alerts";
 $UseDisplayDataUsingHiddenFieldsMsg = "Display data using hidden fields";
-$UseCurrentPasswordMsg = "Current Password";
-$UseNewPasswordMsg = "New Password";
-$UseVerifyNewPasswordMsg = "Verify New Password";
-$UseContactInfoMsg = "Contact Information";
+$UseCurrentPasswordMsg = "Clave Actual";
+$UseNewPasswordMsg = "Nueva Clave";
+$UseVerifyNewPasswordMsg = "Verificar Nueva Clave";
+$UseContactInfoMsg = "Información de Contacto";
 $UseContactInfoRolloverMsg = "Contact Info Rollover";
-$UseHomePhoneNumMsg = "Home Phone Number";
-$UseGuardiansMsg = "Guardians";
-$UseAllContactsMsg = "All Contacts";
-$UseAddressesMsg = "Addresses";
+$UseHomePhoneNumMsg = "Teléfono de Casa";
+$UseGuardiansMsg = "Tutores";
+$UseAllContactsMsg = "Todos los Contactos"
+$UseAddressesMsg = "Direcciones";
 $UseNoneMsg = "Ninguno";
-$UseResidenceMsg = "Residence";
-$UseMailingMsg = "Mailing";
-$UseBusPickupMsg = "Bus Pickup";
-$UseBusDropoffMsg = "Bus Dropoff";
-$UseFieldMsg = "Field";
+$UseResidenceMsg = "Residencia";
+$UseMailingMsg = "Correo";
+$UseBusPickupMsg = "Recogida de Bus";
+$UseBusDropoffMsg = "Parada de Bus";
+$UseFieldMsg = "Campos";
 $UseSearchMsg = "Buscar";
 $UseExpandedViewMsg = "Vista Expandida";
 
 //Users/Profiles.php
-$UseConfirmDeleteMsg = "Confirm Delete";
-$YouSureToDeleteUserProfileMsg = "Are you sure you want to delete the user profile";
-$UsersThatProfileRetainPermissionsCustomSetCanBModifiedThroughUserPermissionsProgramMsg = "Users of that profile will retain their permissions as a custom set which can be modified on a per-user basis through the User Permissions program";
-$UsePermissionsMsg = "Permissions";
-$UseSelectProgramsUsersThisProfileUseWhichProgramsthoseUsersYseToSaveInfoMsg = "Select the programs that users of this profile can use and which programs those users can use to save information.";
+$UseConfirmDeleteMsg = "Confrme Eliminación";
+$YouSureToDeleteUserProfileMsg = "¿Está seguro que desea eliminar el perfil de usuario";
+$UsersThatProfileRetainPermissionsCustomSetCanBModifiedThroughUserPermissionsProgramMsg = "Los usuarios de ese perfil se conservan sus permisos como un conjunto personalizado que puede ser modificado en función de cada usuario a través del programa de permisos de usuario";
+$UsePermissionsMsg = "Permisos";
+$UseSelectProgramsUsersThisProfileUseWhichProgramsthoseUsersYseToSaveInfoMsg = "Seleccione los programas que los usuarios de este perfil se pueden utilizar y que los programas de los usuarios puede utilizar para guardar información.";
 $UseRemoveMsg = "Eliminar";
-$UseAddUserProfileMsg = "Add a User Profile";
+$UseAddUserProfileMsg = "Agregar perfil de Usuario";
 $UseSaveMsg = "Guardar";
 $UseParentMsg = "Padre";
 $UseTeacherMsg = "Profesor";
-$UseAdministratorMsg = "Administrator";
+$UseAdministratorMsg = "Administrador";
 $UseProfilesMsg = "Perfiles";
 
 //Users/Search.inc.php
-$UseFindUserMsg = "Find a User ";
-$UseLastNameMsg = "Last Name";
-$UseFirstNameMsg = "First Name";
-$UseUsernameMsg = "Username";
-$UseAdministratorMsg = "Administrator";
+$UseFindUserMsg = "Buscar usuario ";
+$UseLastNameMsg = "Apellido";
+$UseFirstNameMsg = "Primer Nombre";
+$UseUsernameMsg = "Usuario";
+$UseAdministratorMsg = "Administrador";
 $UseTeacherMsg = "Profesor";
 $UseParentMsg = "Padre";
 $UseNoAccessMsg = "Sin Acceso";
 $UseProfileMsg = "Perfil";
 $UseSearchAllSchoolsMsg = "Buscar todas las escuelas";
-$UseIncludeDisabledUserMsg = "Include Disabled User";
+$UseIncludeDisabledUserMsg = "Incluir usuarios de movilidad reducida";
 $UseSubmitMsg = "Agregar";
 $UseResetMsg = "Limpiar";
-$UsePleaseSelectUserMsg = "Please select a user";
+$UsePleaseSelectUserMsg = "Seleccione usuario";
 $UseStaffIDMsg = "Staff ID";
 $UseUserMsg = "Usuario";
 $UseUsersMsg = "Usuarios";
-$UseStaffMemberMsg = "Staff Member";
+$UseStaffMemberMsg = "Miembro del personal";
 
 //Users/Search_Miss_Attn.inc.php
-$UsePleaseSelectFromDateMsg = "please select from date";
-$UseFromMsg = "From";
-$UseToMsg = "To";
+$UsePleaseSelectFromDateMsg = "seleccione fecha de inicio";
+$UseFromMsg = "De";
+$UseToMsg = "Para";
 $UseGoMsg = "Ir";
-$UseAdministratorMsg = "Administrator";
+$UseAdministratorMsg = "Administrador";
 $UseTeacherMsg = "Profesor";
 $UseParentMsg = "Padre";
 $UseNoAccessMsg = "Sin Acceso";
 $UseStaffIDMsg = "Staff ID";
 $UseUserMsg = "Usuario";
 $UseUsersMsg = "Usuarios";
-$UseStaffMemberMsg = "Staff Member";
+$UseStaffMemberMsg = "Miembro del personal";
 $UseProfileMsg = "Perfil";
-$UseFollowingTeachersMissingAttendanceMsg = "Following teachers have missing attendance";
-$UseNoTeachersMissingAttendanceForSchoolMsg = "No teachers have missing attendance for this school";
+$UseFollowingTeachersMissingAttendanceMsg = "Después de los profesores han perdido la asistencia";
+$UseNoTeachersMissingAttendanceForSchoolMsg = "No faltan los maestros tienen la asistencia de esta escuela";
 
 //Users/TeacherPrograms.php
 $UseUsersMsg = "Usuarios";
@@ -1920,7 +1920,7 @@ $UseSchoolYearChooseDifferentUsernameTryAgainMsg  = "año escolar. Elegir un nom
 $UseSpecifiedUsernameAlreadyTakenTryDifferentUserNameMsg = "Nombre de usuario especificado ya está en uso! Por favor, inténtelo de nuevo con un nombre de usuario.";
 $UseLastLoginMsg = "Último ingreso";
 $UseUsersMsg = "Usuarios";
-$UseAddUserMsg = "Add a User";
+$UseAddUserMsg = "Agregar Usuario";
 $UseCreateAccountMsg = "Crear Cuenta";
 $UseDeleteMsg = "Eliminar";
 $UseSaveMsg = "Guardar";
@@ -1949,7 +1949,7 @@ $UseForDatesMsg = "para fechas";
 $UseForCheckboxesMsg = "para casillas de verificación";
 $UseTitleMsg = "Título";
 $UseSortOrderMsg = "Orden de Clasificación";
-$UseAdministratorMsg = "Administrator";
+$UseAdministratorMsg = "Administrador";
 $UseTeacherMsg = "Profesor";
 $UseParentMsg = "Padre";
 $UseNoAccessMsg = "Sin Acceso";
