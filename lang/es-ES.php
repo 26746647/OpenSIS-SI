@@ -354,8 +354,8 @@ $immunizationMsg = "Immunization";
 $alertMsg = "Alert";
 $nurseVisitMsg = "Nurse Visit";
 $groupByFamilyMsg = "Grupo de la Familia";
-$searchAllSchoolsMsg = "Search All Schools";
-$includeInactiveStudentsMsg = "Include Inactive Students";
+$searchAllSchoolsMsg = "Buscar todas las escuelas";
+$includeInactiveStudentsMsg = "Incluir Alumnos inactivos";
 $studentMsg = "Alumno";
 $studentIDMsg = "Identificación Alumno";
 $alternateIDMsg = "Alternate ID";
@@ -445,7 +445,7 @@ $pleaseSelectStudentFirstMsg = "Please select a student first! from the <b>\"Stu
 $otherStudentsAssociatedWithThisAddressMsg = "Other students associated with this address:<BR>";
 $studentsAddressMsg = "Student's Address";
 $otherStudentsAssociatedWithPersonMsg = "Other students associated with this person:<BR>";
-$warningMsg = "Warning";
+$warningMsg = "Advertencia";
 $addNewContactMsg = "Add New Contact";
 $studentsHomeAddressMsg = "Student's Home Address";
 $addressLine1Msg = "Address Line 1";
@@ -557,7 +557,7 @@ $enrollmentInformationMsg = "Enrollment Information";
 
 $schedulingCoteMsg = "Scheduling > ";
 $deleteThisProgressMsg = "Delete This Progress";
-$coursePeriodMsg = "Course Period";
+$coursePeriodMsg = "Período del curso";
 $proficiencyScaleMsg = "Proficiency  Scale";
 $newSubjectMsg = "New Subject";
 $deleteThisGoalMsg = "Delete This Goal";
@@ -657,7 +657,7 @@ $SchPrintMsg = "Print";
 $SchMarkingPeriodsMsg = "Marking Periods";
 $SchSelectMarkingPeriodMsg = "Select Marking Period";
 $SchAllMsg = "All";
-$SchSubjectMsg = "Subject";
+$SchSubjectMsg = "Tema";
 $SchSelectSubjectMsg = "Select Subject";
 $SchCourseMsg = "Curso";
 $SchSelectCourseMsg = "Select Course";
@@ -677,9 +677,9 @@ $SchClassNameMsg = "Class Name";
 // School_Setup/Courses.php 
 
 $SchSearchMsg = "Buscar";
-$SchSubjectsMsg = "Subjects";
-$SchCoursePeriodMsg = "Course Period";
-$SchCoursePeriodsMsg = "Course Periods";
+$SchSubjectsMsg = "Temas";
+$SchCoursePeriodMsg = "Período del curso";
+$SchCoursePeriodsMsg = "Períodos de curso";
 $SchUnableToDeleteMsg = "Unable to Delete";
 $SchCourseCannotBeDeletedMsg = "Course cannot be deleted";
 $SchBackToCourseMsg = "back to Course";
@@ -688,7 +688,7 @@ $SchBackToSubjectMsg = "back to Subject";
 $SchNewPeriodMsg = "New Period";
 $SchSecondaryTeacherMsg = "Secondary Teacher";
 $SchSeatsMsg = "Seats";
-$SchAvailableSeatsMsg = "Available Seats";
+$SchAvailableSeatsMsg = "Asientos disponibles";
 $SchGenderRestrictionMsg = "Gender Restriction";
 $SchGradingScaleMsg = "Grading Scale";
 $SchNotGradedMsg = "Not Graded";
@@ -705,7 +705,7 @@ $SchParentCoursePeriodMsg = "Parent Course Period";
 $SchNewCourseMsg = "New Course";
 $SchTitleMsg = "Title";
 $SchNewSubjectMsg = "New Subject";
-$SchAvailableSeatsMsg = "Available Seats";
+$SchAvailableSeatsMsg = "Asientos disponibles";
 $SchPeriodsMsg = "Periods";
 
 // END /School_Setup/Courses.php
@@ -944,8 +944,8 @@ $AttPleaseEnterNewCategoryTitleMsg = "Please enter the New Category Title";
 // Attendance/AttendanceData.php
 $AttAttendanceMsg = "Attendance";
 $AttAdvancedMsg = "Advanced";
-$AttSearchAllSchoolsMsg = "Search All Schools";
-$AttSubmitMsg = "Submit";
+$AttSearchAllSchoolsMsg = "Buscar todas las escuelas";
+$AttSubmitMsg = "Agregar";
 $AttGoMsg = "Go";
 $AttDateMsg = "Date";
 $AttStudentNameMsg = "Student Name";
@@ -983,7 +983,7 @@ $AttCourseEndDateMsg = "Course End Date";
 $AttAttendanceDateMsg = "Attendance Date";
 $AttNoDuplicatesFoundMsg = "No Duplicates Found";
 $AttDeleteMsg = "Delete";
-$AttNoStudentsFoundMsg = "No Students were found";
+$AttNoStudentsFoundMsg = "No se han encontrado Alumnos";
 
 // Attendance/FixDailyAttendance.php
 $AttAttendanceMsg = "Attendance";
@@ -1019,7 +1019,7 @@ $AttMissingAttendanceMsg = "Missing Attendance";
 // Attendance/Missing_Attendance.php
 $AttUserListMsg = "Back to the User List";
 $AttSelectedUserMsg = "Selected User";
-$AttWarningMsg = "Warning";
+$AttWarningMsg = "Advertencia";
 $AttTeachersMissingAttendanceDataMsg = "Teachers have missing attendance data";
 $AttDateMsg = "Date";
 $AttPeriodTeacherMsg = "Period -Teacher";
@@ -1027,7 +1027,7 @@ $AttSchoolMsg = "School";
 $AttAttendanceCompletedMsg = "Attendance completed for this teacher";
 
 // Attendance/Percent.php
-$AttSearchAllSchoolsMsg = "Search All Schools";
+$AttSearchAllSchoolsMsg = "Buscar todas las escuelas";
 $AttAdvancedMsg = "Advanced";
 $AttGoMsg = "Go";
 $AttDateMsg = "Date";
@@ -1085,7 +1085,7 @@ $AttAttendance1Msg = "attendance";
 
 //Grades/AnomalousGrades.php
 
-$GraIncludeInactiveStudentsMsg = "Include Inactive Students";
+$GraIncludeInactiveStudentsMsg = "Incluir Alumnos inactivos";
 $GraNameMsg = "Name";
 $GraStudentIDMsg = "Identificación Alumno";
 $GraProblemMsg = "Problem";
@@ -1265,7 +1265,7 @@ $GraGradeMsg = "Grado";
 $GraSchoolStatusMsg = "School Status";
 $GraCourseStatusMsg = "Course Status";
 $GraStudentsMsg = "Alumnos";
-$GraIncludeInactiveStudentsMsg = "Include Inactive Students";
+$GraIncludeInactiveStudentsMsg = "Incluir Alumnos inactivos";
 
 //END Grades/Grades.php
 
@@ -1506,7 +1506,7 @@ $RepBirthPlaceMsg = "Birth Place";
 $RepStudentMsg = "Alumno";
 $RepStudentsMsg = "Alumnos";
 $RepFindAStudentMsg = "Buscar Alumno";
-$RepSubmitMsg = "Submit";
+$RepSubmitMsg = "Agregar";
 $RepResetMsg = "Limpiar";
 $RepListMsg = "List";
 
@@ -1516,7 +1516,7 @@ $RepListMsg = "List";
 
 //Misc/ChooCourse.php
 
-$MisCoursePeriodMsg = "Course Period";
+$MisCoursePeriodMsg = "Período del curso";
 $MisCourseMsg = "Curso";
 
 //END Misc/ChooseCourse.php
@@ -1585,7 +1585,7 @@ $MisPeriodsMsg = "Periods";
 $MisRoleParentMsg = "Role: Parent";
 $MisAssignedDateMsg = "Assigned Date";
 $MisDueDateMsg = "Due Date";
-$MisSubjectMsg = "Subject";
+$MisSubjectMsg = "Tema";
 $MisAssignmentMsg = "Assignment";
 $MisAssignmentsMsg = "Assignments";
 $MisRoleStudentMsg = "Role: Student";
@@ -1717,9 +1717,9 @@ $RooNoResultsMsg = "No Results";
 // Modules.php 
 
 $RooLogOutMsg = "Log Out";
-$RooSubjectMsg = "Subject";
+$RooSubjectMsg = "Tema";
 $RooCourseMsg = "Curso";
-$RooCoursePeriodMsg = "Course Period";
+$RooCoursePeriodMsg = "Período del curso";
 $RooHomeMsg = "Home";
 $RooWelcomeToOpenSISStudentInformationSystemMsg = "Welcome to openSIS Student Information System";
 $RooVersionMsg = "Version";
@@ -1878,9 +1878,9 @@ $UseTeacherMsg = "Profesor";
 $UseParentMsg = "Parent";
 $UseNoAccessMsg = "No Access";
 $UseProfileMsg = "Profile";
-$UseSearchAllSchoolsMsg = "Search All Schools";
+$UseSearchAllSchoolsMsg = "Buscar todas las escuelas";
 $UseIncludeDisabledUserMsg = "Include Disabled User";
-$UseSubmitMsg = "Submit";
+$UseSubmitMsg = "Agregar";
 $UseResetMsg = "Limpiar";
 $UsePleaseSelectUserMsg = "Please select a user";
 $UseStaffIDMsg = "Staff ID";
@@ -1962,7 +1962,7 @@ $UseUserFieldCategoriesMsg = "User Field Categories";
 $UseUserFieldMsg = "User Field";
 $UseDataTypeMsg = "Data Type";
 $UseSelectMultipleMsg = "Select Multiple";
-$UseSubmitMsg = "Submit";
+$UseSubmitMsg = "Agregar";
 $UseResetMsg = "Limpiar";
 
 ////////////////////////////------------------- Schedduling -----------------///////////////////////////////////
@@ -1974,7 +1974,7 @@ $SchSorryNoStudentsSelectedMsg = "Sorry! No Students were selected";
 $SchStudentMsg = "Alumno";
 $SchStudentIDMsg = "Identificación Alumno";
 $SchCourseMsg ="Curso";
-$SchCoursePeriodMsg = "Course Period";
+$SchCoursePeriodMsg = "Período del curso";
 $SchEnrolledMsg = "Enrolled";
 $SchDroppedMsg = "Eliminado";
 $SchScheduleRecordMsg = "Schedule Record";
@@ -1983,15 +1983,15 @@ $SchCreateAddDropReportSelectedStudentsMsg = "Create Add/Drop Report for Selecte
 
 //Schedduling/Courses.php
 $SchSearchMsg = "Buscar";
-$SchSubjectMsg = "Subject";
-$SchSubjectsMsg = "Subjects";
+$SchSubjectMsg = "Tema";
+$SchSubjectsMsg = "Temas";
 $SchCourseMsg ="Curso";
 $SchCoursesMsg ="Cursos";
-$SchCoursePeriodMsg = "Course Period";
-$SchCoursePeriodsMsg = "Course Periods";
-$SchCoursePeriod1Msg = "course period";
+$SchCoursePeriodMsg = "Período del curso";
+$SchCoursePeriodsMsg = "Períodos de curso";
+$SchCoursePeriod1Msg = "Período del curso";
 $SchCourse1Msg = "Curso";
-$SchSubject1Msg = "subject";
+$SchSubject1Msg = "Tema";
 $SchSchedulingMsg = "Programaciones";
 $SchDeleteMsg = "Delete";
 $SchNewPeriodMsg = "New Period";
@@ -2003,7 +2003,7 @@ $SchPeriodMsg = "Período";
 $SchMeetingDaysMsg = "Meeting Days";
 $SchMarkingPeriodMsg = "Marking Period";
 $SchSeatsMsg = "Seats";
-$SchAvailableSeatsMsg = "Available Seats";
+$SchAvailableSeatsMsg = "Asientos disponibles";
 $SchTakesAttendanceMsg = "Takes Attendance";
 $SchAffectsHonorRollMsg = "Affects Honor Roll";
 $SchAffectsClassRankMsg = "Affects Class Rank";
@@ -2026,15 +2026,15 @@ $SchPeriodsMsg = "Periods";
 
 //Schedduling/CoursesforWindow.php
 $SchSearchMsg = "Buscar";
-$SchSubjectMsg = "Subject";
-$SchSubjectsMsg = "Subjects";
+$SchSubjectMsg = "Tema";
+$SchSubjectsMsg = "Temas";
 $SchCourseMsg ="Curso";
 $SchCoursesMsg ="Cursos";
-$SchCoursePeriodMsg = "Course Period";
-$SchCoursePeriodsMsg = "Course Periods";
-$SchCoursePeriod1Msg = "course period";
+$SchCoursePeriodMsg = "Período del curso";
+$SchCoursePeriodsMsg = "Períodos de curso";
+$SchCoursePeriod1Msg = "Período del curso";
 $SchCourse1Msg = "Curso";
-$SchSubject1Msg = "subject";
+$SchSubject1Msg = "Tema";
 $SchSchedulingMsg = "Programaciones";
 $SchDeleteMsg = "Delete";
 $SchNewPeriodMsg = "New Period";
@@ -2064,7 +2064,7 @@ $SchParentCoursePeriodMSg = "Parent Course Period";
 $SchNewCourseMsg = "New Course";
 $SchTitleMsg = "Title";
 $SchNewSubjectMsg = "New Subject";
-$SchAvailableSeatsMsg = "Available Seats";
+$SchAvailableSeatsMsg = "Asientos disponibles";
 $SchPeriodsMsg = "Periods";
 
 //Schedduling/IncompleteSchedules.php
@@ -2145,7 +2145,7 @@ $SchStudentRequestsMsg = "Student Requests";
 
 //Schedduling/new_Requests.php
 $SchSaveMsg = "Save";
-$SchRequestMsg = "Request";
+$SchRequestMsg = "Solicitud";
 $SchRequestsMsg = "Peticiones";
 
 //Schedduling/PrintClassLists.php
@@ -2157,15 +2157,15 @@ $SchCoursePeriodNameMsg = "Course Period Name";
 $SchMarkingPeriodMsg = "Marking Period";
 $SchChooseAtLeastOneCoursePeriodMsg = "You must choose at least one course period.";
 $SchSchedulingMsg = "Programaciones";
-$SchIncludeInactiveStudentsMsg = "Include Inactive Students";
+$SchIncludeInactiveStudentsMsg = "Incluir Alumnos inactivos";
 $SchSearchMsg = "Buscar";
 $SchTeacherMsg = "Profesor";
-$SchSubjectMsg = "Subject";
+$SchSubjectMsg = "Tema";
 $SchPeriodMsg = "Período";
-$SchSubmitMsg = "Submit";
+$SchSubmitMsg = "Agregar";
 $SchResetMsg = "Limpiar";
-$SchCoursePeriodMsg = "Course Period";
-$SchCoursePeriodsMsg = "Course Periods";
+$SchCoursePeriodMsg = "Período del curso";
+$SchCoursePeriodsMsg = "Períodos de curso";
 $SchCreateClassListsSelectedCoursePeriodsMsg = "Create Class Lists for Selected Course Periods";
 
 //Schedduling/PrintClassPictures.php
@@ -2176,16 +2176,16 @@ $SchSchedulingMsg = "Programaciones";
 $SchIncludeTeacherMsg = "Include Teacher";
 $SchLegalSizePaperMsg = "Legal Size Paper";
 $SchUseLastYearsIfMissingMsg = "Use Last Year's if Missing";
-$SchIncludeInactiveStudentsMsg = "Include Inactive Students";
+$SchIncludeInactiveStudentsMsg = "Incluir Alumnos inactivos";
 $SchCreateClassPicturesSelectedCoursePeriodsMsg = "Create Class Pictures for Selected Course Periods";
 $SchSearchMsg = "Buscar";
 $SchTeacherMsg = "Profesor";
-$SchSubjectMsg = "Subject";
+$SchSubjectMsg = "Tema";
 $SchPeriodMsg = "Período";
-$SchSubmitMsg = "Submit";
+$SchSubmitMsg = "Agregar";
 $SchResetMsg = "Limpiar";
-$SchCoursePeriodMsg = "Course Period";
-$SchCoursePeriodMsg = "Course Periods";
+$SchCoursePeriodMsg = "Período del curso";
+$SchCoursePeriodMsg = "Períodos de curso";
 
 //Schedduling/PrintRequests.php
 $SchSchedulingMsg = "Programaciones";
@@ -2203,7 +2203,7 @@ $SchStudentGradeMsg = "Student Grade";
 $SchStudentMaillingLabelMsg = "Student Mailling Label";
 
 //Schedduling/PrintSchedules.php
-$SchPeriodTeacherMsg = "Period - Teacher";
+$SchPeriodTeacherMsg = "Período - Profesor";
 $SchTermMsg = "Term";
 $SchDaysMsg = "Days";
 $SchTimeMsg = "Time";
@@ -2223,9 +2223,9 @@ $SchCourseMsg = "Curso";
 $SchTeacherMsg = "Profesor";
 $SchPeriodMsg = "Período";
 $SchAddRequestMsg = "Add a Request";
-$SchSubjectMsg = "Subject";
+$SchSubjectMsg = "Tema";
 $SchAddMsg = "Agregar";
-$SchRequestMsg = "Request";
+$SchRequestMsg = "Solicitud";
 $SchRequestsMsg = "Peticiones";
 $SchUpdateMsg = "Update";
 $SchWithMsg = "Con";
@@ -2241,7 +2241,7 @@ $SchNotSpecifiedMSg = "Sin Especificar";
 $SchAddMsg = "Agregar";
 
 //Schedduling/RequestsReport.php
-$SchSubjectMsg = "Subject";
+$SchSubjectMsg = "Tema";
 $SchCourseMsg = "Curso";
 $SchNumberOfRequestsMsg = "Number of Requests";
 $SchSeatsMsg = "Seats";
@@ -2257,7 +2257,7 @@ $SchIncludeInactiveCoursesMsg = "Include Inactive Courses";
 $SchMarkingPeriodMsg = "Marking Period";
 $SchSaveMsg = "Save";
 $SchCourseMsg = "Curso";
-$SchPeriodTeacherMsg = "Period - Teacher";
+$SchPeriodTeacherMsg = "Período - Profesor";
 $SchRoomMsg = "Room";
 $SchDaysOfWeekMsg = "Días de la Semana";
 $SchTermMsg = "Term";
@@ -2282,30 +2282,30 @@ $SchSchedulerProgressMsg = "Scheduler Progress";
 $SchProcessingRequestsMsg = "Processing Requests";
 $SchDoneMsg = "Done";
 $SchSavingSchedulesMsg = "Saving Schedules";
-$SchBadLockedMsg = "Bad Locked";
-$SchScheduleCountMsg = "Schedule Count()";
-$SchOptimizingMsg = "Optimizing";
-$SchFollowingStudentsCannotBeAccomodatedNoMoreSeatsAvailableMsg = "Following Students cannot be accomodated as No More Seats Available";
-$SchWarningMsg = "Warning";
+$SchBadLockedMsg = "Mal Bloqueado";
+$SchScheduleCountMsg = "Cuenta de Horario()";
+$SchOptimizingMsg = "Optimización";
+$SchFollowingStudentsCannotBeAccomodatedNoMoreSeatsAvailableMsg = "Los siguientes alumnos no pueden ser tenidas en cuenta. No más asientos disponibles";
+$SchWarningMsg = "Advertencia";
 $SchErrorMsg = "Error";
-$SchNoSeatsAvailableMsg = "No Seats Available"; //exist in another module
+$SchNoSeatsAvailableMsg = "No hay asientos disponibles"; //exist in another module
 
 //Schedduling/SchedduleReport.php
 $SchSchedulingMsg = "Programaciones";
-$SchTopMsg = "Top";
-$SchListUnscheduledStudentsMsg = "List Unscheduled Students";
-$SchSubjectMsg = "Subject";
-$SchSubjectsMsg = "Subjects";
+$SchTopMsg = "Superior";
+$SchListUnscheduledStudentsMsg = "Lista de Alumnos no programados";
+$SchSubjectMsg = "Tema";
+$SchSubjectsMsg = "Temas";
 $SchCourseMsg = "Curso";
 $SchRequestsMsg = "Peticiones";
 $SchOpenMsg = "Abierto";
 $SchTotalMsg = "Total";
 $SchCoursesMsg = "Cursos";
-$SchPeriodTeacherMsg = "Period - Teacher";
-$SchCoursePeriodMsg = "Course Period";
-$SchCoursePeriodsMsg = "Course Periods";
+$SchPeriodTeacherMsg = "Período - Profesor";
+$SchCoursePeriodMsg = "Período del curso";
+$SchCoursePeriodsMsg = "Períodos de curso";
 $SchBirthdateMsg = "Cumpleaños";
-$SchGetGradeMsg = "GetGrade";
+$SchGetGradeMsg = "Obtener Grado";
 $SchStudentMsg = "Alumno";
 $SchGradeMsg = "Grado";
 $SchStudentsMsg = "Alumnos";
@@ -2314,15 +2314,15 @@ $SchStudentsMsg = "Alumnos";
 $SchStudentMsg = "Alumno";
 $SchStudentIDMsg = "Identificación Alumno";
 $SchCourseMsg = "Curso";
-$SchUnscheduledRequestMsg = "Unscheduled Request";
-$SchUnscheduledRequestsMsg = "Unscheduled Requests";
+$SchUnscheduledRequestMsg = "Solicitud no Programada";
+$SchUnscheduledRequestsMsg = "Solicitudes no Programadas";
 
 //Schedduling/Search.inc.php
 $SchFindAStudentMsg = "Buscar Alumno";
 $SchGroupByFamilyMsg = "Grupo de la Familia";
-$SchSearchAllSchoolsMsg = "Search All Schools";
-$SchIncludeInactiveStudentsMsg = "Include Inactive Students";
-$SchSubmitMSg = "Submit";
+$SchSearchAllSchoolsMsg = "Buscar todas las escuelas";
+$SchIncludeInactiveStudentsMsg = "Incluir Alumnos inactivos";
+$SchSubmitMSg = "Agregar";
 $SchResetMSg = "Limpiar";
 $SchSearchMsg = "Buscar";
 $SchStudentMsg = "Alumno";
@@ -2333,17 +2333,17 @@ $SchOriginalViewMsg = "Vista Original";
 $SchFamilyMsg = "Familia";
 $SchFamiliesMsg = "Familias";
 $SchStudentsMsg = "Alumnos";
-$SchNoStudentsWereFoundMsg = "No Students were found";
+$SchNoStudentsWereFoundMsg = "No se han encontrado Alumnos";
 
 //Schedduling/UnfilledRequests.php
 $SchSchedulingMsg = "Programaciones";
-$SchRequestMsg = "Request";
-$SchAvailableSeatsMsg = "Available Seats";
-$SchSectionsMSg = "Sections";
+$SchRequestMsg = "Solicitud";
+$SchAvailableSeatsMsg = "Asientos disponibles";
+$SchSectionsMSg = "Secciones";
 $SchTeacherMsg = "Profesor";
 $SchPeriodMsg = "Período";
-$SchUnscheduledRequestMsg = "Unscheduled Request";
-$SchUnscheduledRequestsMsg = "Unscheduled Requests";
+$SchUnscheduledRequestMsg = "Solicitud no Programada";
+$SchUnscheduledRequestsMsg = "Solicitudes no Programadas";
 $SchWithMsg = "Con";
 $SchWithoutMsg = "Sin";
 $SchOnMsg = "On";
