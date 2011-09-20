@@ -2121,7 +2121,7 @@ $SchUpdateMsg = "Actualizar";
 //Schedduling/Menu.php
 $SchSchedulingMsg = "Programaciones";
 $SchStudentScheduleMsg = "Student Schedule";
-$SchStudentRequestsMsg = "Student Requests";
+$SchStudentRequestsMsg = "Peticiones de Alumno";
 $SchGroupScheduleMsg = "Group Schedule";
 $SchGroupRequestsMsg = "Group Requests";
 $SchGroupDropsMsg = "Group Drops";
@@ -2141,7 +2141,7 @@ $SchScheduleMsg = "Schedule";
 $SchPrintSchedulesMsg = "Print Schedules";
 $SchScheduleMsg = "Schedule";
 $SchClassPicturesMsg = "Class Pictures";
-$SchStudentRequestsMsg = "Student Requests";
+$SchStudentRequestsMsg = "Peticiones de Alumno";
 
 //Schedduling/new_Requests.php
 $SchSaveMsg = "Guardar";
@@ -2149,13 +2149,13 @@ $SchRequestMsg = "Solicitud";
 $SchRequestsMsg = "Peticiones";
 
 //Schedduling/PrintClassLists.php
-$SchTeacherClassListMsg = "Teacher Class List";
+$SchTeacherClassListMsg = "Lista de Profesores de Clase";
 $SchPoweredByOpenSISMsg = "Powered by openSIS";
-$SchTeacherNameMsg = "Teacher Name";
-$SchCourseProgramNameMsg = "Course Program Name";
-$SchCoursePeriodNameMsg = "Course Period Name";
+$SchTeacherNameMsg = "Nombre del Profesor";
+$SchCourseProgramNameMsg = "Nombre del Programa del Curso";
+$SchCoursePeriodNameMsg = "Nombre del Curso del Período";
 $SchMarkingPeriodMsg = "Período de evaluación";
-$SchChooseAtLeastOneCoursePeriodMsg = "You must choose at least one course period.";
+$SchChooseAtLeastOneCoursePeriodMsg = "Debe elegir al menos un período del curso.";
 $SchSchedulingMsg = "Programaciones";
 $SchIncludeInactiveStudentsMsg = "Incluir Alumnos inactivos";
 $SchSearchMsg = "Buscar";
@@ -2166,18 +2166,18 @@ $SchSubmitMsg = "Agregar";
 $SchResetMsg = "Limpiar";
 $SchCoursePeriodMsg = "Período del curso";
 $SchCoursePeriodsMsg = "Períodos de curso";
-$SchCreateClassListsSelectedCoursePeriodsMsg = "Create Class Lists for Selected Course Periods";
+$SchCreateClassListsSelectedCoursePeriodsMsg = "Crear listas de clase para los períodos del curso seleccionado";
 
 //Schedduling/PrintClassPictures.php
-$SchStudentClassPicturesMsg = "Student Class Pictures";
+$SchStudentClassPicturesMsg = "Fotografías de los alumnos de la Clase";
 $SchPoweredByOpenSISMsg = "Powered by openSIS";
-$SchChooseAtLeastOneCoursePeriodMsg = "You must choose at least one course period.";
+$SchChooseAtLeastOneCoursePeriodMsg = "Debe elegir al menos un período del curso.";
 $SchSchedulingMsg = "Programaciones";
-$SchIncludeTeacherMsg = "Include Teacher";
-$SchLegalSizePaperMsg = "Legal Size Paper";
-$SchUseLastYearsIfMissingMsg = "Use Last Year's if Missing";
+$SchIncludeTeacherMsg = "Incluir Profesor";
+$SchLegalSizePaperMsg = "Tamaño Papel Legal";
+$SchUseLastYearsIfMissingMsg = "Usar del año pasado, si faltan";
 $SchIncludeInactiveStudentsMsg = "Incluir Alumnos inactivos";
-$SchCreateClassPicturesSelectedCoursePeriodsMsg = "Create Class Pictures for Selected Course Periods";
+$SchCreateClassPicturesSelectedCoursePeriodsMsg = "Creación de imágenes para los períodos de clase del curso seleccionado";
 $SchSearchMsg = "Buscar";
 $SchTeacherMsg = "Profesor";
 $SchSubjectMsg = "Tema";
