@@ -1968,7 +1968,7 @@ $UseResetMsg = "Limpiar";
 ////////////////////////////------------------- Schedduling -----------------///////////////////////////////////
 
 //Schedduling/AddDrop.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchGoMsg = "Go";
 $SchSorryNoStudentsSelectedMsg = "Sorry! No Students were selected";
 $SchStudentMsg = "Alumno";
@@ -1992,7 +1992,7 @@ $SchCoursePeriodsMsg = "Períodos de curso";
 $SchCoursePeriod1Msg = "Período del curso";
 $SchCourse1Msg = "Curso";
 $SchSubject1Msg = "Tema";
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchDeleteMsg = "Delete";
 $SchNewPeriodMsg = "New Period";
 $SchSaveMsg = "Guardar";
@@ -2035,7 +2035,7 @@ $SchCoursePeriodsMsg = "Períodos de curso";
 $SchCoursePeriod1Msg = "Período del curso";
 $SchCourse1Msg = "Curso";
 $SchSubject1Msg = "Tema";
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchDeleteMsg = "Delete";
 $SchNewPeriodMsg = "New Period";
 $SchSaveMsg = "Guardar";
@@ -2068,7 +2068,7 @@ $SchAvailableSeatsMsg = "Asientos disponibles";
 $SchPeriodsMsg = "Periods";
 
 //Schedduling/IncompleteSchedules.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchStudentWithIncompleteScheduleMsg = "Student with an incomplete schedule";
 $SchStudentsWithIncompleteSchedulesMsg = "Students with incomplete schedules";
 $SchStudentMsg = "Alumno";
@@ -2080,7 +2080,7 @@ $SchTheDateEnteredNotValidMsg = "The date you entered is not valid";
 $SchCannotScheduleStudentIntoCourseDuringMarkingPeriodYouChoseCourseMeetsOnMsg = "You cannot schedule a student into that course during the marking period that you chose.  This course meets on ";
 $SchCourseHasBeenDroppedFromSelectedStudentsSchedulesMsg = "That course has been dropped from the selected students' schedules.";
 $SchMustChooseCourseMsg = "You must choose a Course";
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchCourseToDropMsg = "Course to Drop";
 $SchChooseCourseMsg = "Choose a Course";
 $SchDropDateMsg = "Drop Date";
@@ -2092,7 +2092,7 @@ $SchDuplicateEntryRequestAlreadyExistsMsg = "Duplicate Entry.Request already exi
 $SchCourseHasBeenAddedAsRequestForSelectedStudentsMsg = "That course has been added as a request for the selected students.";
 $SchWrongTeacherSelectionMsg = "Wrong Teacher Selection";
 $SchMustChooseCourseMsg = "You must choose a Course";
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchRequestToAddMsg = "Request to Add";
 $SchChooseCourseMsg = "Choose a Course";
 $SchTeacherMsg = "Profesor";
@@ -2106,7 +2106,7 @@ $SchCourseHasBeenAddedToSelectedStudentsSchedulesMsg = "That course has been add
 $SchNoAvailableSeatsInThisPeriodMsg = "There is no available seats in this period";
 $SchManualOverrideMsg = "Manual Override";
 $SchMustChooseCourseMsg = "You must choose a Course";
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchCourseToAddMsg = "Course to Add";
 $SchChooseCourseMsg = "Choose a Course";
 $SchStartDateMsg = "Start Date";
@@ -2119,7 +2119,7 @@ $SchTotalSeatsMsg = "Total Seats";
 $SchUpdateMsg = "Actualizar";
 
 //Schedduling/Menu.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchStudentScheduleMsg = "Horario de Alumno";
 $SchStudentRequestsMsg = "Peticiones de Alumno";
 $SchGroupScheduleMsg = "Horario de Grupo";
@@ -2156,7 +2156,7 @@ $SchCourseProgramNameMsg = "Nombre del Programa del Curso";
 $SchCoursePeriodNameMsg = "Nombre del Curso del Período";
 $SchMarkingPeriodMsg = "Período de evaluación";
 $SchChooseAtLeastOneCoursePeriodMsg = "Debe elegir al menos un período del curso.";
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchIncludeInactiveStudentsMsg = "Incluir Alumnos inactivos";
 $SchSearchMsg = "Buscar";
 $SchTeacherMsg = "Profesor";
@@ -2172,7 +2172,7 @@ $SchCreateClassListsSelectedCoursePeriodsMsg = "Crear listas de clase para los p
 $SchStudentClassPicturesMsg = "Fotografías de los alumnos de la Clase";
 $SchPoweredByOpenSISMsg = "Powered by openSIS";
 $SchChooseAtLeastOneCoursePeriodMsg = "Debe elegir al menos un período del curso.";
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchIncludeTeacherMsg = "Incluir Profesor";
 $SchLegalSizePaperMsg = "Tamaño Papel Legal";
 $SchUseLastYearsIfMissingMsg = "Usar del año pasado, si faltan";
@@ -2188,7 +2188,7 @@ $SchCoursePeriodMsg = "Período del curso";
 $SchCoursePeriodMsg = "Períodos de curso";
 
 //Schedduling/PrintRequests.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchCourseMsg = "Curso";
 $SchMarkingPeriodMsg = "Período de evaluación";
 $SchWithTeacherMsg = "Con Propfesor";
@@ -2218,7 +2218,7 @@ $SchStudentGradeMsg = "Alumno de Grado";
 $SchMallingDetailsMsg = "Detalle de Correo";
 
 //Schedduling/Requests.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchCourseMsg = "Curso";
 $SchTeacherMsg = "Profesor";
 $SchPeriodMsg = "Período";
@@ -2245,10 +2245,10 @@ $SchSubjectMsg = "Tema";
 $SchCourseMsg = "Curso";
 $SchNumberOfRequestsMsg = "Número de Peticiones";
 $SchSeatsMsg = "Asientos";
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 
 //Schedduling/Scheddule.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchSelectedStudentMsg = "Alumno Seleccionado";
 $SchRemoveMsg = "Eliminar";
 $SchBackToStudentListMsg = "Volver a la Lista de Alumnos";
@@ -2273,7 +2273,7 @@ $SchnoteMsg = "nota";
 $SchFullYearMsg = "Todo el Año";
 
 //Schedduling/Schedduler.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchConfirmSchedulerRunMsg = "Confirma la Ejecución del Calendario";
 $SchYouAureYouWantRunSchedulerMsg = "¿Está seguro que desea ejecutar el programador?";
 $SchScheduleUnscheduledRequestsMsg = "Calendario de solicitudes no programadas";
@@ -2291,7 +2291,7 @@ $SchErrorMsg = "Error";
 $SchNoSeatsAvailableMsg = "No hay asientos disponibles"; //exist in another module
 
 //Schedduling/SchedduleReport.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchTopMsg = "Superior";
 $SchListUnscheduledStudentsMsg = "Lista de Alumnos no programados";
 $SchSubjectMsg = "Tema";
@@ -2336,7 +2336,7 @@ $SchStudentsMsg = "Alumnos";
 $SchNoStudentsWereFoundMsg = "No se han encontrado Alumnos";
 
 //Schedduling/UnfilledRequests.php
-$SchSchedulingMsg = "Programaciones";
+$SchSchedulingMsg = "Horarios";
 $SchRequestMsg = "Solicitud";
 $SchAvailableSeatsMsg = "Asientos disponibles";
 $SchSectionsMSg = "Secciones";
