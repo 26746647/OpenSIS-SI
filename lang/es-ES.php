@@ -687,7 +687,7 @@ $SchSubjectCannotBeDeletedMsg = "Subject cannot be deleted";
 $SchBackToSubjectMsg = "back to Subject";
 $SchNewPeriodMsg = "New Period";
 $SchSecondaryTeacherMsg = "Secondary Teacher";
-$SchSeatsMsg = "Seats";
+$SchSeatsMsg = "Asientos";
 $SchAvailableSeatsMsg = "Asientos disponibles";
 $SchGenderRestrictionMsg = "Gender Restriction";
 $SchGradingScaleMsg = "Grading Scale";
@@ -2002,7 +2002,7 @@ $SchRoomMsg = "Clase";
 $SchPeriodMsg = "Período";
 $SchMeetingDaysMsg = "Meeting Days";
 $SchMarkingPeriodMsg = "Período de evaluación";
-$SchSeatsMsg = "Seats";
+$SchSeatsMsg = "Asientos";
 $SchAvailableSeatsMsg = "Asientos disponibles";
 $SchTakesAttendanceMsg = "Takes Attendance";
 $SchAffectsHonorRollMsg = "Affects Honor Roll";
@@ -2045,7 +2045,7 @@ $SchRoomMsg = "Clase";
 $SchPeriodMsg = "Período";
 $SchMeetingDaysMsg = "Meeting Days";
 $SchMarkingPeriodMsg = "Período de evaluación";
-$SchSeatsMsg = "Seats";
+$SchSeatsMsg = "Asientos";
 $SchTakesAttendanceMsg = "Takes Attendance";
 $SchAffectsHonorRollMsg = "Affects Honor Roll";
 $SchAffectsClassRankMsg = "Affects Class Rank";
@@ -2231,20 +2231,20 @@ $SchUpdateMsg = "Update";
 $SchWithMsg = "Con";
 $SchWithoutMsg = "Sin";
 $SchOnMsg = "On";
-$SchNotOnMsg = "Not on";
+$SchNotOnMsg = "No es";
 
 //Schedduling/_Requests.php
 $SchSaveMsg = "Guardar";
-$SchNoWeightWasSelectdForMsg = "No weight was selectd for ";
-$SchDoesNotHaveWeightOfMsg = "does not have a weight of";
+$SchNoWeightWasSelectdForMsg = "No fue seleccionada autoridad para ";
+$SchDoesNotHaveWeightOfMsg = "no tiene autoridad de";
 $SchNotSpecifiedMSg = "Sin Especificar";
 $SchAddMsg = "Agregar";
 
 //Schedduling/RequestsReport.php
 $SchSubjectMsg = "Tema";
 $SchCourseMsg = "Curso";
-$SchNumberOfRequestsMsg = "Number of Requests";
-$SchSeatsMsg = "Seats";
+$SchNumberOfRequestsMsg = "Número de Peticiones";
+$SchSeatsMsg = "Asientos";
 $SchSchedulingMsg = "Programaciones";
 
 //Schedduling/Scheddule.php
@@ -2347,7 +2347,7 @@ $SchUnscheduledRequestsMsg = "Solicitudes no Programadas";
 $SchWithMsg = "Con";
 $SchWithoutMsg = "Sin";
 $SchOnMsg = "On";
-$SchNotOnMsg = "Not on";
+$SchNotOnMsg = "No es";
 
 // END Scheduling
 
