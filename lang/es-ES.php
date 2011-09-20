@@ -546,7 +546,7 @@ $alternateIDMsg = "Alternate ID";
 $accessInformationMsg = "Access Information";
 $passwordMsg = "Password";
 $usernameMsg = "Username";
-$lastLoginMsg = "Last Login";
+$lastLoginMsg = "Último ingreso";
 $disableStudentMsg = "Disable Student";
 $enrollmentInformationMsg = "Enrollment Information";
 
@@ -798,7 +798,7 @@ $SchReportGeneratedForAllTermsMsg = "Report generated for all Terms";
 
 //School_Setup/Rollover.php 
 
-$SchUsersMsg = "Users"; 
+$SchUsersMsg = "Usuarios"; 
 $SchSchoolPeriodsMsg = "School Periods";
 $SchCalendarsMsg = "Calendars";
 $SchReportCardGradeCodesMsg = "Report Card Grade Codes";
@@ -947,7 +947,7 @@ $AttAdvancedMsg = "Advanced";
 $AttSearchAllSchoolsMsg = "Buscar todas las escuelas";
 $AttSubmitMsg = "Agregar";
 $AttGoMsg = "Ir";
-$AttDateMsg = "Date";
+$AttDateMsg = "Fecha";
 $AttStudentNameMsg = "Nombre de Alumno";
 $AttGradeMsg = "Grado";
 $AttPeriodNameMsg = "Period Name";
@@ -1013,15 +1013,15 @@ $AttTakeAttendanceMsg = "Take Attendance";
 $AttAttendanceChartMsg = "Attendance Chart";
 $AttAbsencesMsg = "Absences";
 $AttDailySummaryMsg = "Daily Summary";
-$AttUsersMsg = "Users";
+$AttUsersMsg = "Usuarios";
 $AttMissingAttendanceMsg = "Missing Attendance";
 
 // Attendance/Missing_Attendance.php
 $AttUserListMsg = "Back to the User List";
-$AttSelectedUserMsg = "Selected User";
+$AttSelectedUserMsg = "Usuario seleccionado";
 $AttWarningMsg = "Advertencia";
 $AttTeachersMissingAttendanceDataMsg = "Teachers have missing attendance data";
-$AttDateMsg = "Date";
+$AttDateMsg = "Fecha";
 $AttPeriodTeacherMsg = "Period -Teacher";
 $AttSchoolMsg = "School";
 $AttAttendanceCompletedMsg = "Attendance completed for this teacher";
@@ -1030,7 +1030,7 @@ $AttAttendanceCompletedMsg = "Attendance completed for this teacher";
 $AttSearchAllSchoolsMsg = "Buscar todas las escuelas";
 $AttAdvancedMsg = "Advanced";
 $AttGoMsg = "Ir";
-$AttDateMsg = "Date";
+$AttDateMsg = "Fecha";
 $AttGradeMsg = "Grado";
 $AttStudentsMsg = "Alumnos";
 $AttDaysPossibleMsg = "Days Possible";
@@ -1049,7 +1049,7 @@ $AttGradeLevelsMsg = "Grade levels";
 $AttAttendanceMsg = "Attendance";
 $AttDailyMsg = "Daily";
 $AttGoMsg = "Ir";
-$AttDateMsg = "Date";
+$AttDateMsg = "Fecha";
 $AttPresentMsg = "Present";
 $AttOfficeCommentMsg = "Office Comment";
 $AttTeacherCommentMsg = "Teacher Comment";
@@ -1468,7 +1468,7 @@ $TooBackupDatabaseMsg = "Backup Database";
 
 //Tools/Rollover.php
 
-$TooUsersMsg = "Users";
+$TooUsersMsg = "Usuarios";
 $TooSchoolPeriodsMsg = "School Periods";
 $TooMarkingPeriodsMsg = "Marking Periods";
 $TooCalendarsMsg = "Calendars";
@@ -1563,8 +1563,8 @@ $MisRelationMsg = "Relation"; //Family Links
 
 // Misc/Portal.php
 
-$MisUserMsg = "User";
-$MisLastLoginMsg = "Last login";
+$MisUserMsg = "Usuario";
+$MisLastLoginMsg = "Último ingreso";
 $MisAtMsg = "at"; // Give an event or an info after that 
 $MisFailedLoginAttemptsMsg = "failed login attempts";
 $MisRoleAdministratorMsg = "Role: Administrator"; //Define the role of the login user
@@ -1758,7 +1758,7 @@ $UseStaffIDMsg = "Staff ID";
 $UseLastYearStaffIDMsg = "Last Year Staff ID";
 $UseUsernameMsg = "Username";
 $UsePasswordMsg = "Password";
-$UseLastLoginMsg = "Last Login";
+$UseLastLoginMsg = "Último ingreso";
 $UseDisableUserMsg = "Disable User";
 $UsePermissionsMsg = "Permissions";
 $UseSchoolsMsg = "Schools";
@@ -1777,7 +1777,7 @@ $UseCoursesMsg = "Cursos";
 
 //Users/AddStudents.php
 $USeSelectedUsersProfileIncludesAccessToSelectedStudentsMsg = "The selected user's profile now includes access to the selected students";
-$UseUsersMsg = "Users";
+$UseUsersMsg = "Usuarios";
 $UseStudentFromUserMsg = "student from that user";
 $UseRemoveAccessMsg = "remove access to";
 $UseAddSelectedStudentsMsg = "Add Selected Students"; //button
@@ -1811,7 +1811,7 @@ $UsePreferencesMsg = "Preferences";
 $UseSetupMsg = "Configurar";
 $UseUserPermissionsMsg = "User Permissions";
 $UseUserFieldsMsg = "User Fields";
-$UseTeacherProgramsMsg = "Teacher Programs";
+$UseTeacherProgramsMsg = "Programas de Profesor";
 
 //Users/Preferences.php
 $UseNewPasswordsNotMatchMsg = "Your new passwords did not match";
@@ -1877,15 +1877,15 @@ $UseAdministratorMsg = "Administrator";
 $UseTeacherMsg = "Profesor";
 $UseParentMsg = "Padre";
 $UseNoAccessMsg = "Sin Acceso";
-$UseProfileMsg = "Profile";
+$UseProfileMsg = "Perfil";
 $UseSearchAllSchoolsMsg = "Buscar todas las escuelas";
 $UseIncludeDisabledUserMsg = "Include Disabled User";
 $UseSubmitMsg = "Agregar";
 $UseResetMsg = "Limpiar";
 $UsePleaseSelectUserMsg = "Please select a user";
 $UseStaffIDMsg = "Staff ID";
-$UseUserMsg = "User";
-$UseUsersMsg = "Users";
+$UseUserMsg = "Usuario";
+$UseUsersMsg = "Usuarios";
 $UseStaffMemberMsg = "Staff Member";
 
 //Users/Search_Miss_Attn.inc.php
@@ -1898,55 +1898,55 @@ $UseTeacherMsg = "Profesor";
 $UseParentMsg = "Padre";
 $UseNoAccessMsg = "Sin Acceso";
 $UseStaffIDMsg = "Staff ID";
-$UseUserMsg = "User";
-$UseUsersMsg = "Users";
+$UseUserMsg = "Usuario";
+$UseUsersMsg = "Usuarios";
 $UseStaffMemberMsg = "Staff Member";
-$UseProfileMsg = "Profile";
+$UseProfileMsg = "Perfil";
 $UseFollowingTeachersMissingAttendanceMsg = "Following teachers have missing attendance";
 $UseNoTeachersMissingAttendanceForSchoolMsg = "No teachers have missing attendance for this school";
 
 //Users/TeacherPrograms.php
-$UseUsersMsg = "Users";
-$UseTeacherProgramsMsg = "Teacher Programs";
-$UseChoosePeriodMsg = "Choose Period";
+$UseUsersMsg = "Usuarios";
+$UseTeacherProgramsMsg = "Programas de Profesor";
+$UseChoosePeriodMsg = "Seleccione Período";
 
 //Users/User.php
-$UseSelectedUserMsg = "Selected User";
+$UseSelectedUserMsg = "Usuario seleccionado";
 $UseRemoveMsg = "Eliminar";
-$UseBackToUserListMsg = "Back to User List";
-$UseInvalidDateCouldntBeSavedMsg = "The invalid date could not be saved";
-$UseUserWithThatUsernameAlreadyExistsForTheMsg = "A user with that username already exists for the ";
-$UseSchoolYearChooseDifferentUsernameTryAgainMsg  = "school year. Choose a different username and try again.";
-$UseSpecifiedUsernameAlreadyTakenTryDifferentUserNameMsg = "Specified username is already taken! Please try again with a different user name.";
-$UseLastLoginMsg = "Last Login";
-$UseUsersMsg = "Users";
+$UseBackToUserListMsg = "Volver a la lista de usuarios";
+$UseInvalidDateCouldntBeSavedMsg = "La fecha inválida no puede ser guardada";
+$UseUserWithThatUsernameAlreadyExistsForTheMsg = "Un usuario con ese nombre de usuario ya existe para el ";
+$UseSchoolYearChooseDifferentUsernameTryAgainMsg  = "año escolar. Elegir un nombre de usuario y vuelva a intentarlo.";
+$UseSpecifiedUsernameAlreadyTakenTryDifferentUserNameMsg = "Nombre de usuario especificado ya está en uso! Por favor, inténtelo de nuevo con un nombre de usuario.";
+$UseLastLoginMsg = "Último ingreso";
+$UseUsersMsg = "Usuarios";
 $UseAddUserMsg = "Add a User";
-$UseCreateAccountMsg = "Create Account";
+$UseCreateAccountMsg = "Crear Cuenta";
 $UseDeleteMsg = "Eliminar";
 $UseSaveMsg = "Guardar";
 
 //Users/User_activity_days.php
-$UseMaximumInactiveDaysAllowedMsg = "Maximum Inactive Days Allowed";
+$UseMaximumInactiveDaysAllowedMsg = "Máximo número de días inactivos permitidos";
 $UseSaveMsg = "Guardar";
 $UseUserField1Msg = "Campo de Usuario";
-$UseUserFieldCategoryAllFieldsInTheCategoryMsg = "user field category and all fields in the category";
-$UseNewUserFieldMsg = "New User Field";
-$UseNewUserFieldCategoryMsg = "New User Field Category";
-$UseFieldNameMsg = "Field Name";
+$UseUserFieldCategoryAllFieldsInTheCategoryMsg = "user categoría de campo y todos los campos en la categoría";
+$UseNewUserFieldMsg = "Nuevo campo de usuario";
+$UseNewUserFieldCategoryMsg = "Categoría Nuevo campo de usuario";
+$UseFieldNameMsg = "Campo de Nombre";
 $UsePullDownMsg = "Pull-Down";
 $UseAutoPullDownMsg = "Auto Pull-Down";
 $UseEditPullDownMsg = "Edit Pull-Down";
-$UseTextMsg = "Text";
-$UseCheckboxMsg = "Checkbox";
+$UseTextMsg = "Texto";
+$UseCheckboxMsg = "Casilla de verificación";
 $UseCodedPullDownMsg = "Coded Pull-Down";
-$UseNumberMsg = "Number";
-$UseSelectMultipleFromOptionsMsg = "Select Multiple from Options";
-$UseDateMsg = "Date";
-$UseLongTextMsg = "Long Text";
-$UseSelectMultipleChoicesMsg = "Select Multiple Choices";
-$UseOnePerLineMsg = "one per line";
-$UseForDatesMsg = "for dates";
-$UseForCheckboxesMsg = "for checkboxes";
+$UseNumberMsg = "Número";
+$UseSelectMultipleFromOptionsMsg = "Seleccion Múltiple de Opciones";
+$UseDateMsg = "Fecha";
+$UseLongTextMsg = "Texto Largo";
+$UseSelectMultipleChoicesMsg = "Selecciona múltimples opciones";
+$UseOnePerLineMsg = "uno por línea";
+$UseForDatesMsg = "para fechas";
+$UseForCheckboxesMsg = "para casillas de verificación";
 $UseTitleMsg = "Título";
 $UseSortOrderMsg = "Orden de Clasificación";
 $UseAdministratorMsg = "Administrator";
