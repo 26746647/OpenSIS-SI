@@ -770,7 +770,7 @@ $SchPrintAllCoursesMsg = "Print all Courses";
 
 //School_Setup/PortalNotes.php
 
-$SchNoteMsg = "Note";
+$SchNoteMsg = "nota";
 $SchPublishingOptionsMsg = "Publishing Options";
 $SchVisibleBetweenMsg = "Visible Between";
 $SchVisibleToMsg = "Visible To";
@@ -1423,7 +1423,7 @@ $GraCreateTranscriptsForSelectedStudentsMsg = "Create Transcripts for Selected S
 //Tools/Backup.php
 
 $TooBackupMsg = "Backup";
-$TooNoteMsg = "Note";
+$TooNoteMsg = "nota";
 $TooDetailNoteBackupMsg = "This backup utility will create a backup of the database along with the database structure. You will be able to use this backup file to restore the database. However, in order to restore, you  will need to have access to MySQL administration application like phpMyAdmin and the root user id and password to MySQL.";
 $TooCancelMsg = "Cancel";
 
@@ -1569,7 +1569,7 @@ $MisAtMsg = "at"; // Give an event or an info after that
 $MisFailedLoginAttemptsMsg = "failed login attempts";
 $MisRoleAdministratorMsg = "Role: Administrator"; //Define the role of the login user
 $MisDatePostedMsg = "Date Posted";
-$MisNoteMsg = "Note"; // As a content 
+$MisNoteMsg = "nota"; // As a content 
 $MisSchoolMsg = "School";
 $MisNotesMsg = "Notes"; // Contents
 $MisEventMsg = "Event";
@@ -2266,22 +2266,22 @@ $SchDroppedMsg = "Eliminado";
 $SchCoursesMsg = "Cursos";
 $SchSectionAlreadyFullMsg = "That section is already full.";
 $SchThereIsAlreadyCourseScheduledInPeriodMsg = "There is already a course scheduled in that period.";
-$SchThereIsPeriodTimeClashMsg = "There is a period time clash.";
+$SchThereIsPeriodTimeClashMsg = "Hay un choque período de tiempo.";
 $SchConfirmMsg = "Confirmar";
-$SchConflictYouCannotAddCoursePeriodMsg = "There is a conflict. You cannot add this course period.";
-$SchnoteMsg = "note";
-$SchFullYearMsg = "Full Year";
+$SchConflictYouCannotAddCoursePeriodMsg = "Hay un conflicto. No es posible añadir este periodo del curso.";
+$SchnoteMsg = "nota";
+$SchFullYearMsg = "Todo el Año";
 
 //Schedduling/Schedduler.php
 $SchSchedulingMsg = "Programaciones";
-$SchConfirmSchedulerRunMsg = "Confirm Scheduler Run";
-$SchYouAureYouWantRunSchedulerMsg = "Are you sure you want to run the scheduler?";
-$SchScheduleUnscheduledRequestsMsg = "Schedule Unscheduled Requests";
-$SchDeleteCurrentSchedulesMsg = "Delete Current Schedules";
-$SchSchedulerProgressMsg = "Scheduler Progress";
-$SchProcessingRequestsMsg = "Processing Requests";
-$SchDoneMsg = "Done";
-$SchSavingSchedulesMsg = "Saving Schedules";
+$SchConfirmSchedulerRunMsg = "Confirma la Ejecución del Calendario";
+$SchYouAureYouWantRunSchedulerMsg = "¿Está seguro que desea ejecutar el programador?";
+$SchScheduleUnscheduledRequestsMsg = "Calendario de solicitudes no programadas";
+$SchDeleteCurrentSchedulesMsg = "Eliminando Horarios Actuales";
+$SchSchedulerProgressMsg = "Horario en Progreso";
+$SchProcessingRequestsMsg = "Procesando Peticiones";
+$SchDoneMsg = "Hecho";
+$SchSavingSchedulesMsg = "Guardando Horarios";
 $SchBadLockedMsg = "Mal Bloqueado";
 $SchScheduleCountMsg = "Cuenta de Horario()";
 $SchOptimizingMsg = "Optimización";
