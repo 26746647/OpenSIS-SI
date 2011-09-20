@@ -61,7 +61,7 @@ $enrollmentRecords = "Registros de Inscripción";
 // AddressFields.php
 $confirmDeleteAdressFieldCategory = "categoría campo de dirección y todos los campos de la categoría";
 $newAddressField = "Nuevo campo de dirección";
-$newAddressFieldCategory = "Nueva categoria de campo de Dirección";
+$newAddressFieldCategory = "Nueva Categoría de campo de Dirección";
 
 $save = "Guardar";
 $fieldName = "Nombre de Campo";
@@ -1957,8 +1957,8 @@ $UseProfilesMsg = "Perfiles";
 $UseIncludeShouldBeLeftBlankMsg = "Incluir (debe dejarse en blanco para la mayoría de las categorías)";
 $UseCategoryMsg = "Categoría";
 $UseOrderMsg = "Orden";
-$UseUserFieldCategoryMsg = "Categoria de campo de Usuario";
-$UseUserFieldCategoriesMsg = "Categorias de campo de Usuario";
+$UseUserFieldCategoryMsg = "Categoría de campo de Usuario";
+$UseUserFieldCategoriesMsg = "Categorías de campo de Usuario";
 $UseUserFieldMsg = "Campo de Usuario";
 $UseDataTypeMsg = "Tipo de Datos";
 $UseSelectMultipleMsg = "Selección Múltiple";
